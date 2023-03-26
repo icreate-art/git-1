@@ -19,4 +19,4 @@ Hello guigu! Hello git!
 Hello guigu! Hello git!
 Hello guigu! Hello git!
 Hello guigu! Hello git!  master test
-Hello guigu! Hello git!
+Hello guigu! Hello git! hot-fix test
